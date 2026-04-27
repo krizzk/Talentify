@@ -1,0 +1,9 @@
+{
+  "name": "cv-app",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix backend run start:dev",
+    "build": "npm --prefix backend run build",
+    "test": "npm --prefix backend run test"
+  }
+}

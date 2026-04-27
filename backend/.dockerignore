@@ -1,0 +1,13 @@
+node_modules
+.next
+dist
+.env
+.env.*
+*.log
+coverage
+.git
+README.md
+.vscode
+.idea
+.DS_Store
+Thumbs.db
